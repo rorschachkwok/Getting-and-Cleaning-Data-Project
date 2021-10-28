@@ -2,7 +2,8 @@ Code Book
 The data is taken from UCI HAR Dataset. 
 1.	subject - ID of participant
 
-2.	activity - ID of activity type
+2.	activity - ID of activity type: with 6 values:
+"WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING"
 
 3.	Mean and standart deviation for the following features:
 tBodyAcc-XYZ
